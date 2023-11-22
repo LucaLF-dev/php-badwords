@@ -8,8 +8,9 @@
 </head>
 <body>
 
-<form action="word.php" method="POST">
+<form action="word.php" method="POST" >
     <input type="text" name="replace_word">
+   <input type="text-area" name="what-text">
     <input type="submit" value="Invia">
   </form>
 
